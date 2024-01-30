@@ -79,5 +79,9 @@
   "block.the_vault.ore_xenium_stone": "Mirroryx Ore - Stone",
   "block.the_vault.ore_xenium_vault_stone": "Mirroryx Ore - Vault Stone",
   "block.the_vault.ore_xenium_white": "Mirroryx Ore - Diorite",
-  "block.the_vault.treasure_door_xenium": "Mirroryx Treasure Door"
+  "block.the_vault.treasure_door_xenium": "Mirroryx Treasure Door",
+  "block.the_vault.vault_platinum": "Crown",
+  "block.the_vault.vault_gold": "Galleon",
+  "block.the_vault.vault_silver": "Sickle",
+  "block.the_vault.vault_bronze": "Knut"
 }
