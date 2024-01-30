@@ -16,7 +16,7 @@ export function copyRecursiveSync(src: string, dest: string, logPrefix: string) 
                 });
             });
         } else {
-            console.log(`${logPrefix} ${path.relative(__dirname, currentSrc)}... [${currentSrc} -> ${currentDest}]`);
+            console.log(`${logPrefix} ${path.relative(__dirname, currentSrc)}...`);
             mkdirSync(path.dirname(currentDest), {recursive: true});
             copyFileSync(currentSrc, currentDest);
         }
