@@ -6,27 +6,6 @@
   },
   "LightBlock": [
     {
-      "block": "somepotter:protego_diabolica",
-      "radius": 7,
-      "color": "#protego_diabolica_blocking",
-      "state": {
-        "blocking": true
-      }
-    },
-    {
-      "block": "somepotter:protego_diabolica",
-      "radius": 7,
-      "color": "#protego_diabolica",
-      "state": {
-        "blocking": false
-      }
-    },
-    {
-      "block": "somepotter:floo_fire",
-      "color": "#floo_fire",
-      "radius": 10
-    },
-    {
       "block": "minecraft:soul_torch",
       "color": "#5FF2F7FF",
       "radius": 10
